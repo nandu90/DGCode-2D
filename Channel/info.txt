@@ -1,0 +1,6 @@
+Total Iterations for Convergence = 3675
+Total time = 360 secs
+
+
+2-Norm of Error  = 0.0244439
+Overall Order = 1.61183
